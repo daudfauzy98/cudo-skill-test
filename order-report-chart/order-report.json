@@ -1,0 +1,2526 @@
+[
+  {
+    "orderDate": "1996-07-04",
+    "categories": [
+      {
+        "name": "Dairy Products",
+        "quantity": 17
+      },
+      {
+        "name": "Grains/Cereals",
+        "quantity": 10
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-07-05",
+    "categories": [
+      {
+        "name": "Produce",
+        "quantity": 49
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-07-08",
+    "categories": [
+      {
+        "name": "Condiments",
+        "quantity": 35
+      },
+      {
+        "name": "Grains/Cereals",
+        "quantity": 21
+      },
+      {
+        "name": "Produce",
+        "quantity": 35
+      },
+      {
+        "name": "Seafood",
+        "quantity": 10
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-07-09",
+    "categories": [
+      {
+        "name": "Confections",
+        "quantity": 40
+      },
+      {
+        "name": "Dairy Products",
+        "quantity": 65
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-07-10",
+    "categories": [
+      {
+        "name": "Beverages",
+        "quantity": 42
+      },
+      {
+        "name": "Confections",
+        "quantity": 40
+      },
+      {
+        "name": "Dairy Products",
+        "quantity": 20
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-07-11",
+    "categories": [
+      {
+        "name": "Beverages",
+        "quantity": 15
+      },
+      {
+        "name": "Meat/Poultry",
+        "quantity": 21
+      },
+      {
+        "name": "Produce",
+        "quantity": 21
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-07-12",
+    "categories": [
+      {
+        "name": "Beverages",
+        "quantity": 20
+      },
+      {
+        "name": "Confections",
+        "quantity": 35
+      },
+      {
+        "name": "Dairy Products",
+        "quantity": 30
+      },
+      {
+        "name": "Seafood",
+        "quantity": 25
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-07-15",
+    "categories": [
+      {
+        "name": "Condiments",
+        "quantity": 12
+      },
+      {
+        "name": "Meat/Poultry",
+        "quantity": 15
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-07-16",
+    "categories": [
+      {
+        "name": "Beverages",
+        "quantity": 6
+      },
+      {
+        "name": "Condiments",
+        "quantity": 15
+      },
+      {
+        "name": "Confections",
+        "quantity": 25
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-07-17",
+    "categories": [
+      {
+        "name": "Beverages",
+        "quantity": 50
+      },
+      {
+        "name": "Condiments",
+        "quantity": 65
+      },
+      {
+        "name": "Dairy Products",
+        "quantity": 6
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-07-18",
+    "categories": [
+      {
+        "name": "Confections",
+        "quantity": 10
+      },
+      {
+        "name": "Seafood",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-07-19",
+    "categories": [
+      {
+        "name": "Beverages",
+        "quantity": 41
+      },
+      {
+        "name": "Confections",
+        "quantity": 35
+      },
+      {
+        "name": "Grains/Cereals",
+        "quantity": 50
+      },
+      {
+        "name": "Seafood",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-07-22",
+    "categories": [
+      {
+        "name": "Condiments",
+        "quantity": 12
+      },
+      {
+        "name": "Grains/Cereals",
+        "quantity": 2
+      },
+      {
+        "name": "Produce",
+        "quantity": 15
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-07-23",
+    "categories": [
+      {
+        "name": "Beverages",
+        "quantity": 28
+      },
+      {
+        "name": "Confections",
+        "quantity": 60
+      },
+      {
+        "name": "Produce",
+        "quantity": 36
+      },
+      {
+        "name": "Seafood",
+        "quantity": 60
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-07-24",
+    "categories": [
+      {
+        "name": "Beverages",
+        "quantity": 35
+      },
+      {
+        "name": "Seafood",
+        "quantity": 25
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-07-25",
+    "categories": [
+      {
+        "name": "Beverages",
+        "quantity": 20
+      },
+      {
+        "name": "Meat/Poultry",
+        "quantity": 30
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-07-26",
+    "categories": [
+      {
+        "name": "Dairy Products",
+        "quantity": 12
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-07-29",
+    "categories": [
+      {
+        "name": "Beverages",
+        "quantity": 15
+      },
+      {
+        "name": "Dairy Products",
+        "quantity": 70
+      },
+      {
+        "name": "Seafood",
+        "quantity": 50
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-07-30",
+    "categories": [
+      {
+        "name": "Dairy Products",
+        "quantity": 4
+      },
+      {
+        "name": "Meat/Poultry",
+        "quantity": 10
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-07-31",
+    "categories": [
+      {
+        "name": "Dairy Products",
+        "quantity": 80
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-08-01",
+    "categories": [
+      {
+        "name": "Beverages",
+        "quantity": 25
+      },
+      {
+        "name": "Dairy Products",
+        "quantity": 24
+      },
+      {
+        "name": "Seafood",
+        "quantity": 30
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-08-02",
+    "categories": [
+      {
+        "name": "Confections",
+        "quantity": 6
+      },
+      {
+        "name": "Dairy Products",
+        "quantity": 64
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-08-05",
+    "categories": [
+      {
+        "name": "Beverages",
+        "quantity": 33
+      },
+      {
+        "name": "Dairy Products",
+        "quantity": 35
+      },
+      {
+        "name": "Seafood",
+        "quantity": 84
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-08-06",
+    "categories": [
+      {
+        "name": "Dairy Products",
+        "quantity": 27
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-08-07",
+    "categories": [
+      {
+        "name": "Beverages",
+        "quantity": 12
+      },
+      {
+        "name": "Dairy Products",
+        "quantity": 6
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-08-08",
+    "categories": [
+      {
+        "name": "Seafood",
+        "quantity": 25
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-08-09",
+    "categories": [
+      {
+        "name": "Confections",
+        "quantity": 12
+      },
+      {
+        "name": "Produce",
+        "quantity": 20
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-08-12",
+    "categories": [
+      {
+        "name": "Condiments",
+        "quantity": 24
+      },
+      {
+        "name": "Dairy Products",
+        "quantity": 15
+      },
+      {
+        "name": "Seafood",
+        "quantity": 25
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-08-13",
+    "categories": [
+      {
+        "name": "Meat/Poultry",
+        "quantity": 15
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-08-14",
+    "categories": [
+      {
+        "name": "Beverages",
+        "quantity": 52
+      },
+      {
+        "name": "Confections",
+        "quantity": 1
+      },
+      {
+        "name": "Meat/Poultry",
+        "quantity": 20
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-08-15",
+    "categories": [
+      {
+        "name": "Grains/Cereals",
+        "quantity": 2
+      },
+      {
+        "name": "Seafood",
+        "quantity": 6
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-08-16",
+    "categories": [
+      {
+        "name": "Condiments",
+        "quantity": 20
+      },
+      {
+        "name": "Confections",
+        "quantity": 18
+      },
+      {
+        "name": "Dairy Products",
+        "quantity": 38
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-08-19",
+    "categories": [
+      {
+        "name": "Beverages",
+        "quantity": 5
+      },
+      {
+        "name": "Condiments",
+        "quantity": 21
+      },
+      {
+        "name": "Confections",
+        "quantity": 15
+      },
+      {
+        "name": "Dairy Products",
+        "quantity": 20
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-08-20",
+    "categories": [
+      {
+        "name": "Beverages",
+        "quantity": 45
+      },
+      {
+        "name": "Meat/Poultry",
+        "quantity": 36
+      },
+      {
+        "name": "Seafood",
+        "quantity": 40
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-08-21",
+    "categories": [
+      {
+        "name": "Beverages",
+        "quantity": 100
+      },
+      {
+        "name": "Confections",
+        "quantity": 40
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-08-22",
+    "categories": [
+      {
+        "name": "Beverages",
+        "quantity": 20
+      },
+      {
+        "name": "Confections",
+        "quantity": 40
+      },
+      {
+        "name": "Seafood",
+        "quantity": 15
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-08-23",
+    "categories": [
+      {
+        "name": "Confections",
+        "quantity": 3
+      },
+      {
+        "name": "Meat/Poultry",
+        "quantity": 10
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-08-26",
+    "categories": [
+      {
+        "name": "Condiments",
+        "quantity": 30
+      },
+      {
+        "name": "Grains/Cereals",
+        "quantity": 9
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-08-27",
+    "categories": [
+      {
+        "name": "Condiments",
+        "quantity": 54
+      },
+      {
+        "name": "Confections",
+        "quantity": 15
+      },
+      {
+        "name": "Meat/Poultry",
+        "quantity": 15
+      },
+      {
+        "name": "Produce",
+        "quantity": 2
+      },
+      {
+        "name": "Seafood",
+        "quantity": 20
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-08-28",
+    "categories": [
+      {
+        "name": "Confections",
+        "quantity": 20
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-08-29",
+    "categories": [
+      {
+        "name": "Beverages",
+        "quantity": 16
+      },
+      {
+        "name": "Condiments",
+        "quantity": 5
+      },
+      {
+        "name": "Seafood",
+        "quantity": 12
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-08-30",
+    "categories": [
+      {
+        "name": "Beverages",
+        "quantity": 39
+      },
+      {
+        "name": "Dairy Products",
+        "quantity": 21
+      },
+      {
+        "name": "Meat/Poultry",
+        "quantity": 15
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-09-02",
+    "categories": [
+      {
+        "name": "Grains/Cereals",
+        "quantity": 4
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-09-03",
+    "categories": [
+      {
+        "name": "Confections",
+        "quantity": 30
+      },
+      {
+        "name": "Dairy Products",
+        "quantity": 27
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-09-04",
+    "categories": [
+      {
+        "name": "Beverages",
+        "quantity": 60
+      },
+      {
+        "name": "Dairy Products",
+        "quantity": 20
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-09-05",
+    "categories": [
+      {
+        "name": "Beverages",
+        "quantity": 40
+      },
+      {
+        "name": "Confections",
+        "quantity": 15
+      },
+      {
+        "name": "Dairy Products",
+        "quantity": 30
+      },
+      {
+        "name": "Seafood",
+        "quantity": 40
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-09-06",
+    "categories": [
+      {
+        "name": "Beverages",
+        "quantity": 20
+      },
+      {
+        "name": "Confections",
+        "quantity": 15
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-09-09",
+    "categories": [
+      {
+        "name": "Condiments",
+        "quantity": 30
+      },
+      {
+        "name": "Confections",
+        "quantity": 20
+      },
+      {
+        "name": "Grains/Cereals",
+        "quantity": 20
+      },
+      {
+        "name": "Seafood",
+        "quantity": 10
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-09-10",
+    "categories": [
+      {
+        "name": "Beverages",
+        "quantity": 12
+      },
+      {
+        "name": "Meat/Poultry",
+        "quantity": 40
+      },
+      {
+        "name": "Produce",
+        "quantity": 28
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-09-11",
+    "categories": [
+      {
+        "name": "Condiments",
+        "quantity": 30
+      },
+      {
+        "name": "Confections",
+        "quantity": 15
+      },
+      {
+        "name": "Seafood",
+        "quantity": 40
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-09-12",
+    "categories": [
+      {
+        "name": "Confections",
+        "quantity": 30
+      },
+      {
+        "name": "Dairy Products",
+        "quantity": 12
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-09-13",
+    "categories": [
+      {
+        "name": "Beverages",
+        "quantity": 30
+      },
+      {
+        "name": "Meat/Poultry",
+        "quantity": 25
+      },
+      {
+        "name": "Seafood",
+        "quantity": 25
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-09-16",
+    "categories": [
+      {
+        "name": "Meat/Poultry",
+        "quantity": 15
+      },
+      {
+        "name": "Seafood",
+        "quantity": 10
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-09-17",
+    "categories": [
+      {
+        "name": "Confections",
+        "quantity": 13
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-09-18",
+    "categories": [
+      {
+        "name": "Beverages",
+        "quantity": 5
+      },
+      {
+        "name": "Dairy Products",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-09-19",
+    "categories": [
+      {
+        "name": "Beverages",
+        "quantity": 20
+      },
+      {
+        "name": "Condiments",
+        "quantity": 50
+      },
+      {
+        "name": "Dairy Products",
+        "quantity": 3
+      },
+      {
+        "name": "Grains/Cereals",
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-09-20",
+    "categories": [
+      {
+        "name": "Confections",
+        "quantity": 15
+      },
+      {
+        "name": "Dairy Products",
+        "quantity": 7
+      },
+      {
+        "name": "Grains/Cereals",
+        "quantity": 6
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-09-23",
+    "categories": [
+      {
+        "name": "Beverages",
+        "quantity": 34
+      },
+      {
+        "name": "Meat/Poultry",
+        "quantity": 20
+      },
+      {
+        "name": "Produce",
+        "quantity": 4
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-09-24",
+    "categories": [
+      {
+        "name": "Seafood",
+        "quantity": 12
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-09-25",
+    "categories": [
+      {
+        "name": "Confections",
+        "quantity": 25
+      },
+      {
+        "name": "Dairy Products",
+        "quantity": 40
+      },
+      {
+        "name": "Seafood",
+        "quantity": 30
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-09-26",
+    "categories": [
+      {
+        "name": "Beverages",
+        "quantity": 44
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-09-27",
+    "categories": [
+      {
+        "name": "Confections",
+        "quantity": 70
+      },
+      {
+        "name": "Seafood",
+        "quantity": 10
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-09-30",
+    "categories": [
+      {
+        "name": "Beverages",
+        "quantity": 20
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-10-01",
+    "categories": [
+      {
+        "name": "Beverages",
+        "quantity": 6
+      },
+      {
+        "name": "Seafood",
+        "quantity": 20
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-10-02",
+    "categories": [
+      {
+        "name": "Beverages",
+        "quantity": 30
+      },
+      {
+        "name": "Meat/Poultry",
+        "quantity": 8
+      },
+      {
+        "name": "Produce",
+        "quantity": 14
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-10-03",
+    "categories": [
+      {
+        "name": "Beverages",
+        "quantity": 10
+      },
+      {
+        "name": "Dairy Products",
+        "quantity": 30
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-10-04",
+    "categories": [
+      {
+        "name": "Grains/Cereals",
+        "quantity": 20
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-10-07",
+    "categories": [
+      {
+        "name": "Beverages",
+        "quantity": 4
+      },
+      {
+        "name": "Condiments",
+        "quantity": 5
+      },
+      {
+        "name": "Confections",
+        "quantity": 4
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-10-08",
+    "categories": [
+      {
+        "name": "Beverages",
+        "quantity": 70
+      },
+      {
+        "name": "Condiments",
+        "quantity": 80
+      },
+      {
+        "name": "Confections",
+        "quantity": 21
+      },
+      {
+        "name": "Dairy Products",
+        "quantity": 40
+      },
+      {
+        "name": "Seafood",
+        "quantity": 30
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-10-09",
+    "categories": [
+      {
+        "name": "Condiments",
+        "quantity": 6
+      },
+      {
+        "name": "Dairy Products",
+        "quantity": 44
+      },
+      {
+        "name": "Produce",
+        "quantity": 9
+      },
+      {
+        "name": "Seafood",
+        "quantity": 12
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-10-10",
+    "categories": [
+      {
+        "name": "Beverages",
+        "quantity": 50
+      },
+      {
+        "name": "Condiments",
+        "quantity": 24
+      },
+      {
+        "name": "Grains/Cereals",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-10-11",
+    "categories": [
+      {
+        "name": "Beverages",
+        "quantity": 25
+      },
+      {
+        "name": "Dairy Products",
+        "quantity": 50
+      },
+      {
+        "name": "Seafood",
+        "quantity": 65
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-10-14",
+    "categories": [
+      {
+        "name": "Condiments",
+        "quantity": 40
+      },
+      {
+        "name": "Confections",
+        "quantity": 10
+      },
+      {
+        "name": "Dairy Products",
+        "quantity": 9
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-10-15",
+    "categories": [
+      {
+        "name": "Beverages",
+        "quantity": 20
+      },
+      {
+        "name": "Confections",
+        "quantity": 10
+      },
+      {
+        "name": "Grains/Cereals",
+        "quantity": 12
+      },
+      {
+        "name": "Seafood",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-10-16",
+    "categories": [
+      {
+        "name": "Confections",
+        "quantity": 50
+      },
+      {
+        "name": "Dairy Products",
+        "quantity": 25
+      },
+      {
+        "name": "Meat/Poultry",
+        "quantity": 15
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-10-17",
+    "categories": [
+      {
+        "name": "Confections",
+        "quantity": 16
+      },
+      {
+        "name": "Grains/Cereals",
+        "quantity": 10
+      },
+      {
+        "name": "Seafood",
+        "quantity": 40
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-10-18",
+    "categories": [
+      {
+        "name": "Confections",
+        "quantity": 10
+      },
+      {
+        "name": "Dairy Products",
+        "quantity": 40
+      },
+      {
+        "name": "Produce",
+        "quantity": 10
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-10-21",
+    "categories": [
+      {
+        "name": "Confections",
+        "quantity": 10
+      },
+      {
+        "name": "Grains/Cereals",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-10-22",
+    "categories": [
+      {
+        "name": "Beverages",
+        "quantity": 7
+      },
+      {
+        "name": "Dairy Products",
+        "quantity": 31
+      },
+      {
+        "name": "Produce",
+        "quantity": 48
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-10-23",
+    "categories": [
+      {
+        "name": "Condiments",
+        "quantity": 18
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-10-24",
+    "categories": [
+      {
+        "name": "Confections",
+        "quantity": 24
+      },
+      {
+        "name": "Dairy Products",
+        "quantity": 25
+      },
+      {
+        "name": "Grains/Cereals",
+        "quantity": 40
+      },
+      {
+        "name": "Seafood",
+        "quantity": 48
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-10-25",
+    "categories": [
+      {
+        "name": "Meat/Poultry",
+        "quantity": 20
+      },
+      {
+        "name": "Seafood",
+        "quantity": 15
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-10-28",
+    "categories": [
+      {
+        "name": "Condiments",
+        "quantity": 10
+      },
+      {
+        "name": "Confections",
+        "quantity": 28
+      },
+      {
+        "name": "Meat/Poultry",
+        "quantity": 70
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-10-29",
+    "categories": [
+      {
+        "name": "Beverages",
+        "quantity": 40
+      },
+      {
+        "name": "Dairy Products",
+        "quantity": 17
+      },
+      {
+        "name": "Seafood",
+        "quantity": 32
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-10-30",
+    "categories": [
+      {
+        "name": "Beverages",
+        "quantity": 24
+      },
+      {
+        "name": "Dairy Products",
+        "quantity": 56
+      },
+      {
+        "name": "Meat/Poultry",
+        "quantity": 40
+      },
+      {
+        "name": "Seafood",
+        "quantity": 40
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-10-31",
+    "categories": [
+      {
+        "name": "Beverages",
+        "quantity": 15
+      },
+      {
+        "name": "Confections",
+        "quantity": 4
+      },
+      {
+        "name": "Grains/Cereals",
+        "quantity": 50
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-11-01",
+    "categories": [
+      {
+        "name": "Condiments",
+        "quantity": 105
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-11-04",
+    "categories": [
+      {
+        "name": "Condiments",
+        "quantity": 70
+      },
+      {
+        "name": "Confections",
+        "quantity": 80
+      },
+      {
+        "name": "Grains/Cereals",
+        "quantity": 9
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-11-05",
+    "categories": [
+      {
+        "name": "Grains/Cereals",
+        "quantity": 20
+      },
+      {
+        "name": "Meat/Poultry",
+        "quantity": 36
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-11-06",
+    "categories": [
+      {
+        "name": "Beverages",
+        "quantity": 56
+      },
+      {
+        "name": "Confections",
+        "quantity": 10
+      },
+      {
+        "name": "Seafood",
+        "quantity": 4
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-11-07",
+    "categories": [
+      {
+        "name": "Beverages",
+        "quantity": 15
+      },
+      {
+        "name": "Grains/Cereals",
+        "quantity": 25
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-11-08",
+    "categories": [
+      {
+        "name": "Meat/Poultry",
+        "quantity": 24
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-11-11",
+    "categories": [
+      {
+        "name": "Beverages",
+        "quantity": 20
+      },
+      {
+        "name": "Condiments",
+        "quantity": 87
+      },
+      {
+        "name": "Confections",
+        "quantity": 15
+      },
+      {
+        "name": "Dairy Products",
+        "quantity": 18
+      },
+      {
+        "name": "Seafood",
+        "quantity": 13
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-11-12",
+    "categories": [
+      {
+        "name": "Beverages",
+        "quantity": 10
+      },
+      {
+        "name": "Meat/Poultry",
+        "quantity": 20
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-11-13",
+    "categories": [
+      {
+        "name": "Beverages",
+        "quantity": 50
+      },
+      {
+        "name": "Dairy Products",
+        "quantity": 12
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-11-14",
+    "categories": [
+      {
+        "name": "Beverages",
+        "quantity": 12
+      },
+      {
+        "name": "Meat/Poultry",
+        "quantity": 4
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-11-15",
+    "categories": [
+      {
+        "name": "Beverages",
+        "quantity": 25
+      },
+      {
+        "name": "Grains/Cereals",
+        "quantity": 25
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-11-18",
+    "categories": [
+      {
+        "name": "Dairy Products",
+        "quantity": 50
+      },
+      {
+        "name": "Meat/Poultry",
+        "quantity": 12
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-11-19",
+    "categories": [
+      {
+        "name": "Confections",
+        "quantity": 16
+      },
+      {
+        "name": "Dairy Products",
+        "quantity": 8
+      },
+      {
+        "name": "Seafood",
+        "quantity": 30
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-11-20",
+    "categories": [
+      {
+        "name": "Beverages",
+        "quantity": 20
+      },
+      {
+        "name": "Seafood",
+        "quantity": 20
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-11-21",
+    "categories": [
+      {
+        "name": "Confections",
+        "quantity": 56
+      },
+      {
+        "name": "Dairy Products",
+        "quantity": 150
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-11-22",
+    "categories": [
+      {
+        "name": "Beverages",
+        "quantity": 64
+      },
+      {
+        "name": "Confections",
+        "quantity": 35
+      },
+      {
+        "name": "Dairy Products",
+        "quantity": 55
+      },
+      {
+        "name": "Meat/Poultry",
+        "quantity": 63
+      },
+      {
+        "name": "Produce",
+        "quantity": 30
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-11-25",
+    "categories": [
+      {
+        "name": "Confections",
+        "quantity": 50
+      },
+      {
+        "name": "Meat/Poultry",
+        "quantity": 24
+      },
+      {
+        "name": "Produce",
+        "quantity": 20
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-11-26",
+    "categories": [
+      {
+        "name": "Beverages",
+        "quantity": 24
+      },
+      {
+        "name": "Dairy Products",
+        "quantity": 55
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-11-27",
+    "categories": [
+      {
+        "name": "Dairy Products",
+        "quantity": 24
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-11-28",
+    "categories": [
+      {
+        "name": "Beverages",
+        "quantity": 36
+      },
+      {
+        "name": "Condiments",
+        "quantity": 32
+      },
+      {
+        "name": "Meat/Poultry",
+        "quantity": 18
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-11-29",
+    "categories": [
+      {
+        "name": "Confections",
+        "quantity": 5
+      },
+      {
+        "name": "Grains/Cereals",
+        "quantity": 60
+      },
+      {
+        "name": "Produce",
+        "quantity": 13
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-12-02",
+    "categories": [
+      {
+        "name": "Grains/Cereals",
+        "quantity": 18
+      },
+      {
+        "name": "Meat/Poultry",
+        "quantity": 20
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-12-03",
+    "categories": [
+      {
+        "name": "Beverages",
+        "quantity": 15
+      },
+      {
+        "name": "Grains/Cereals",
+        "quantity": 30
+      },
+      {
+        "name": "Produce",
+        "quantity": 20
+      },
+      {
+        "name": "Seafood",
+        "quantity": 6
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-12-04",
+    "categories": [
+      {
+        "name": "Beverages",
+        "quantity": 40
+      },
+      {
+        "name": "Confections",
+        "quantity": 12
+      },
+      {
+        "name": "Dairy Products",
+        "quantity": 112
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-12-05",
+    "categories": [
+      {
+        "name": "Dairy Products",
+        "quantity": 80
+      },
+      {
+        "name": "Seafood",
+        "quantity": 95
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-12-06",
+    "categories": [
+      {
+        "name": "Meat/Poultry",
+        "quantity": 10
+      },
+      {
+        "name": "Produce",
+        "quantity": 15
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-12-09",
+    "categories": [
+      {
+        "name": "Beverages",
+        "quantity": 20
+      },
+      {
+        "name": "Dairy Products",
+        "quantity": 42
+      },
+      {
+        "name": "Produce",
+        "quantity": 20
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-12-10",
+    "categories": [
+      {
+        "name": "Dairy Products",
+        "quantity": 6
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-12-11",
+    "categories": [
+      {
+        "name": "Condiments",
+        "quantity": 36
+      },
+      {
+        "name": "Seafood",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-12-12",
+    "categories": [
+      {
+        "name": "Beverages",
+        "quantity": 30
+      },
+      {
+        "name": "Dairy Products",
+        "quantity": 6
+      },
+      {
+        "name": "Meat/Poultry",
+        "quantity": 20
+      },
+      {
+        "name": "Produce",
+        "quantity": 14
+      },
+      {
+        "name": "Seafood",
+        "quantity": 18
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-12-13",
+    "categories": [
+      {
+        "name": "Condiments",
+        "quantity": 32
+      },
+      {
+        "name": "Dairy Products",
+        "quantity": 60
+      },
+      {
+        "name": "Meat/Poultry",
+        "quantity": 14
+      },
+      {
+        "name": "Produce",
+        "quantity": 50
+      },
+      {
+        "name": "Seafood",
+        "quantity": 9
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-12-16",
+    "categories": [
+      {
+        "name": "Confections",
+        "quantity": 43
+      },
+      {
+        "name": "Dairy Products",
+        "quantity": 15
+      },
+      {
+        "name": "Grains/Cereals",
+        "quantity": 20
+      },
+      {
+        "name": "Seafood",
+        "quantity": 20
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-12-17",
+    "categories": [
+      {
+        "name": "Confections",
+        "quantity": 8
+      },
+      {
+        "name": "Dairy Products",
+        "quantity": 20
+      },
+      {
+        "name": "Produce",
+        "quantity": 10
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-12-18",
+    "categories": [
+      {
+        "name": "Beverages",
+        "quantity": 40
+      },
+      {
+        "name": "Dairy Products",
+        "quantity": 27
+      },
+      {
+        "name": "Produce",
+        "quantity": 6
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-12-19",
+    "categories": [
+      {
+        "name": "Grains/Cereals",
+        "quantity": 20
+      },
+      {
+        "name": "Meat/Poultry",
+        "quantity": 40
+      },
+      {
+        "name": "Seafood",
+        "quantity": 15
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-12-20",
+    "categories": [
+      {
+        "name": "Beverages",
+        "quantity": 30
+      },
+      {
+        "name": "Confections",
+        "quantity": 20
+      },
+      {
+        "name": "Meat/Poultry",
+        "quantity": 15
+      },
+      {
+        "name": "Seafood",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-12-23",
+    "categories": [
+      {
+        "name": "Beverages",
+        "quantity": 40
+      },
+      {
+        "name": "Dairy Products",
+        "quantity": 84
+      },
+      {
+        "name": "Seafood",
+        "quantity": 63
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-12-24",
+    "categories": [
+      {
+        "name": "Dairy Products",
+        "quantity": 50
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-12-25",
+    "categories": [
+      {
+        "name": "Beverages",
+        "quantity": 25
+      },
+      {
+        "name": "Confections",
+        "quantity": 87
+      },
+      {
+        "name": "Dairy Products",
+        "quantity": 32
+      },
+      {
+        "name": "Produce",
+        "quantity": 42
+      },
+      {
+        "name": "Seafood",
+        "quantity": 10
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-12-26",
+    "categories": [
+      {
+        "name": "Dairy Products",
+        "quantity": 8
+      },
+      {
+        "name": "Meat/Poultry",
+        "quantity": 70
+      },
+      {
+        "name": "Seafood",
+        "quantity": 28
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-12-27",
+    "categories": [
+      {
+        "name": "Confections",
+        "quantity": 10
+      },
+      {
+        "name": "Dairy Products",
+        "quantity": 81
+      },
+      {
+        "name": "Grains/Cereals",
+        "quantity": 40
+      },
+      {
+        "name": "Produce",
+        "quantity": 18
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-12-30",
+    "categories": [
+      {
+        "name": "Beverages",
+        "quantity": 30
+      },
+      {
+        "name": "Meat/Poultry",
+        "quantity": 120
+      }
+    ]
+  },
+  {
+    "orderDate": "1996-12-31",
+    "categories": [
+      {
+        "name": "Beverages",
+        "quantity": 35
+      },
+      {
+        "name": "Condiments",
+        "quantity": 14
+      },
+      {
+        "name": "Confections",
+        "quantity": 60
+      },
+      {
+        "name": "Dairy Products",
+        "quantity": 30
+      }
+    ]
+  },
+  {
+    "orderDate": "1997-01-01",
+    "categories": [
+      {
+        "name": "Beverages",
+        "quantity": 35
+      },
+      {
+        "name": "Condiments",
+        "quantity": 20
+      },
+      {
+        "name": "Confections",
+        "quantity": 30
+      },
+      {
+        "name": "Dairy Products",
+        "quantity": 60
+      },
+      {
+        "name": "Grains/Cereals",
+        "quantity": 70
+      },
+      {
+        "name": "Meat/Poultry",
+        "quantity": 21
+      },
+      {
+        "name": "Seafood",
+        "quantity": 18
+      }
+    ]
+  },
+  {
+    "orderDate": "1997-01-02",
+    "categories": [
+      {
+        "name": "Condiments",
+        "quantity": 65
+      },
+      {
+        "name": "Grains/Cereals",
+        "quantity": 60
+      }
+    ]
+  },
+  {
+    "orderDate": "1997-01-03",
+    "categories": [
+      {
+        "name": "Confections",
+        "quantity": 151
+      },
+      {
+        "name": "Grains/Cereals",
+        "quantity": 40
+      }
+    ]
+  },
+  {
+    "orderDate": "1997-01-06",
+    "categories": [
+      {
+        "name": "Condiments",
+        "quantity": 50
+      }
+    ]
+  },
+  {
+    "orderDate": "1997-01-07",
+    "categories": [
+      {
+        "name": "Beverages",
+        "quantity": 10
+      },
+      {
+        "name": "Confections",
+        "quantity": 30
+      },
+      {
+        "name": "Dairy Products",
+        "quantity": 60
+      },
+      {
+        "name": "Produce",
+        "quantity": 42
+      },
+      {
+        "name": "Seafood",
+        "quantity": 7
+      }
+    ]
+  },
+  {
+    "orderDate": "1997-01-08",
+    "categories": [
+      {
+        "name": "Confections",
+        "quantity": 35
+      },
+      {
+        "name": "Meat/Poultry",
+        "quantity": 6
+      },
+      {
+        "name": "Seafood",
+        "quantity": 10
+      }
+    ]
+  },
+  {
+    "orderDate": "1997-01-09",
+    "categories": [
+      {
+        "name": "Confections",
+        "quantity": 12
+      },
+      {
+        "name": "Produce",
+        "quantity": 12
+      }
+    ]
+  },
+  {
+    "orderDate": "1997-01-10",
+    "categories": [
+      {
+        "name": "Condiments",
+        "quantity": 40
+      },
+      {
+        "name": "Dairy Products",
+        "quantity": 74
+      },
+      {
+        "name": "Seafood",
+        "quantity": 25
+      }
+    ]
+  },
+  {
+    "orderDate": "1997-01-13",
+    "categories": [
+      {
+        "name": "Produce",
+        "quantity": 20
+      }
+    ]
+  },
+  {
+    "orderDate": "1997-01-14",
+    "categories": [
+      {
+        "name": "Beverages",
+        "quantity": 38
+      },
+      {
+        "name": "Confections",
+        "quantity": 58
+      },
+      {
+        "name": "Dairy Products",
+        "quantity": 50
+      }
+    ]
+  },
+  {
+    "orderDate": "1997-01-15",
+    "categories": [
+      {
+        "name": "Dairy Products",
+        "quantity": 20
+      },
+      {
+        "name": "Meat/Poultry",
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "orderDate": "1997-01-16",
+    "categories": [
+      {
+        "name": "Beverages",
+        "quantity": 50
+      },
+      {
+        "name": "Condiments",
+        "quantity": 35
+      },
+      {
+        "name": "Confections",
+        "quantity": 56
+      },
+      {
+        "name": "Grains/Cereals",
+        "quantity": 20
+      },
+      {
+        "name": "Meat/Poultry",
+        "quantity": 10
+      },
+      {
+        "name": "Seafood",
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "orderDate": "1997-01-17",
+    "categories": [
+      {
+        "name": "Beverages",
+        "quantity": 60
+      },
+      {
+        "name": "Condiments",
+        "quantity": 16
+      },
+      {
+        "name": "Confections",
+        "quantity": 55
+      },
+      {
+        "name": "Produce",
+        "quantity": 15
+      }
+    ]
+  },
+  {
+    "orderDate": "1997-01-20",
+    "categories": [
+      {
+        "name": "Dairy Products",
+        "quantity": 80
+      }
+    ]
+  },
+  {
+    "orderDate": "1997-01-21",
+    "categories": [
+      {
+        "name": "Beverages",
+        "quantity": 8
+      },
+      {
+        "name": "Condiments",
+        "quantity": 10
+      },
+      {
+        "name": "Confections",
+        "quantity": 34
+      },
+      {
+        "name": "Meat/Poultry",
+        "quantity": 35
+      },
+      {
+        "name": "Seafood",
+        "quantity": 22
+      }
+    ]
+  },
+  {
+    "orderDate": "1997-01-22",
+    "categories": [
+      {
+        "name": "Confections",
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "orderDate": "1997-01-23",
+    "categories": [
+      {
+        "name": "Beverages",
+        "quantity": 109
+      },
+      {
+        "name": "Confections",
+        "quantity": 30
+      },
+      {
+        "name": "Dairy Products",
+        "quantity": 34
+      }
+    ]
+  },
+  {
+    "orderDate": "1997-01-24",
+    "categories": [
+      {
+        "name": "Beverages",
+        "quantity": 20
+      },
+      {
+        "name": "Meat/Poultry",
+        "quantity": 10
+      }
+    ]
+  },
+  {
+    "orderDate": "1997-01-27",
+    "categories": [
+      {
+        "name": "Grains/Cereals",
+        "quantity": 12
+      },
+      {
+        "name": "Produce",
+        "quantity": 35
+      }
+    ]
+  },
+  {
+    "orderDate": "1997-01-28",
+    "categories": [
+      {
+        "name": "Seafood",
+        "quantity": 20
+      }
+    ]
+  },
+  {
+    "orderDate": "1997-01-29",
+    "categories": [
+      {
+        "name": "Condiments",
+        "quantity": 35
+      },
+      {
+        "name": "Confections",
+        "quantity": 40
+      }
+    ]
+  },
+  {
+    "orderDate": "1997-01-30",
+    "categories": [
+      {
+        "name": "Confections",
+        "quantity": 80
+      },
+      {
+        "name": "Dairy Products",
+        "quantity": 70
+      },
+      {
+        "name": "Grains/Cereals",
+        "quantity": 30
+      },
+      {
+        "name": "Meat/Poultry",
+        "quantity": 95
+      },
+      {
+        "name": "Seafood",
+        "quantity": 50
+      }
+    ]
+  },
+  {
+    "orderDate": "1997-01-31",
+    "categories": [
+      {
+        "name": "Confections",
+        "quantity": 10
+      },
+      {
+        "name": "Meat/Poultry",
+        "quantity": 40
+      }
+    ]
+  },
+  {
+    "orderDate": "1997-02-03",
+    "categories": [
+      {
+        "name": "Beverages",
+        "quantity": 18
+      },
+      {
+        "name": "Dairy Products",
+        "quantity": 6
+      },
+      {
+        "name": "Grains/Cereals",
+        "quantity": 28
+      }
+    ]
+  },
+  {
+    "orderDate": "1997-02-04",
+    "categories": [
+      {
+        "name": "Beverages",
+        "quantity": 10
+      },
+      {
+        "name": "Dairy Products",
+        "quantity": 10
+      },
+      {
+        "name": "Grains/Cereals",
+        "quantity": 12
+      }
+    ]
+  },
+  {
+    "orderDate": "1997-02-05",
+    "categories": [
+      {
+        "name": "Beverages",
+        "quantity": 24
+      },
+      {
+        "name": "Grains/Cereals",
+        "quantity": 70
+      },
+      {
+        "name": "Meat/Poultry",
+        "quantity": 15
+      },
+      {
+        "name": "Seafood",
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "orderDate": "1997-02-06",
+    "categories": [
+      {
+        "name": "Beverages",
+        "quantity": 20
+      },
+      {
+        "name": "Confections",
+        "quantity": 15
+      },
+      {
+        "name": "Grains/Cereals",
+        "quantity": 15
+      }
+    ]
+  },
+  {
+    "orderDate": "1997-02-07",
+    "categories": [
+      {
+        "name": "Confections",
+        "quantity": 16
+      },
+      {
+        "name": "Dairy Products",
+        "quantity": 15
+      },
+      {
+        "name": "Grains/Cereals",
+        "quantity": 6
+      },
+      {
+        "name": "Produce",
+        "quantity": 30
+      }
+    ]
+  },
+  {
+    "orderDate": "1997-02-10",
+    "categories": [
+      {
+        "name": "Beverages",
+        "quantity": 45
+      },
+      {
+        "name": "Condiments",
+        "quantity": 90
+      },
+      {
+        "name": "Confections",
+        "quantity": 99
+      },
+      {
+        "name": "Meat/Poultry",
+        "quantity": 24
+      }
+    ]
+  },
+  {
+    "orderDate": "1997-02-11",
+    "categories": [
+      {
+        "name": "Condiments",
+        "quantity": 60
+      },
+      {
+        "name": "Dairy Products",
+        "quantity": 30
+      },
+      {
+        "name": "Meat/Poultry",
+        "quantity": 80
+      }
+    ]
+  },
+  {
+    "orderDate": "1997-02-12",
+    "categories": [
+      {
+        "name": "Dairy Products",
+        "quantity": 6
+      },
+      {
+        "name": "Produce",
+        "quantity": 12
+      }
+    ]
+  }
+]
