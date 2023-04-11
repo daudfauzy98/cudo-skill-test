@@ -1,6 +1,9 @@
 package main
 
-import "fmt"
+import (
+	"errors"
+	"fmt"
+)
 
 func main() {
 	var size, x, y int
@@ -8,14 +11,22 @@ func main() {
 	fmt.Scan(&size, &x, &y)
 	// fmt.Printf("size: %d  x: %d  y: %d\n", size, x, y)
 
-	fmt.Println("Required number:", getRequiredNumber(size, x, y))
+	result, err := getRequiredNumber(size, x, y)
+	if err != nil {
+		fmt.Println(err)
+		return
+	}
+	fmt.Println("Required number:", result)
 }
 
-func getRequiredNumber(size int, x int, y int) int {
+func getRequiredNumber(size int, x int, y int) (int, error) {
+	if x > size || x < 1 || y > size || y < 1 {
+		return 0, errors.New("x or y value are not valid!")
+	}
 	matrix := generateMatrixReversed(size)
 	// printMatrix(matrix)
 	element := getElementByCoordinate(matrix, x, y)
-	return element
+	return element, nil
 }
 
 func getElementByCoordinate(mx [][]int, x, y int) int {
